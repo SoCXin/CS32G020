@@ -1,8 +1,10 @@
 ﻿# [CH567](https://github.com/sochub/CH567)
 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](https://stop.stops.top) 
+
 #### [Vendor](https://github.com/sochub/Vendor)：[WCH](https://github.com/sochub/WCH)
-#### [ARM]](https://github.com/sochub/ARM)：[ARM 9](https://github.com/sochub/ARM) 
-#### [Level](https://github.com/sochub/Level)：120MHz 
+#### [Cortex](https://github.com/sochub/Cortex)：[ARM9](https://github.com/sochub/ARM)
+#### [Level](https://github.com/sochub/Level)：96/120MHz 
 
 ## [CH567描述](https://github.com/sochub/CH567/wiki) 
 
@@ -10,18 +12,16 @@
 
 [![sites](docs/CH567.png)](http://www.wch.cn/products/CH567.html) 
 
+封装：LQFP48
+
 ### [资源收录](https://github.com/sochub/CH567)
 
 - [文档](docs/)
 - [资源](src/)
 
-### [替代方案](https://github.com/sochub/CH567)
-
-- [CH568](https://github.com/sochub/CH5678) 
-- [CH566](https://github.com/sochub/CH5676) 
-
 ### [选型建议](https://github.com/sochub)
 
-[CH567](https://github.com/sochub/CH567)是定位以太网通信的传统通信MCU，采用的内核相对过时，集成的外设也比较常规，相应市场的竞争产品较多。
+[CH567](https://github.com/sochub/CH567)定位小众的HUB类产品，拥有4组SDIO接口，可用于相关领域，升级替换方案[CH568](https://github.com/sochub/CH5678) 
+
 
 ###  [SoC开发平台](http://www.qitas.cn)   
