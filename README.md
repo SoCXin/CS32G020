@@ -1,27 +1,38 @@
-﻿# [CH567](https://github.com/sochub/CH567)
+﻿# [CS32G020](https://github.com/SoCXin/CS32G020)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](https://stop.stops.top) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/sochub/Vendor)：[WCH](https://github.com/sochub/WCH)
-#### [Cortex](https://github.com/sochub/Cortex)：[ARM9](https://github.com/sochub/ARM)
-#### [Level](https://github.com/sochub/Level)：96/120MHz 
+#### [Vendor](https://github.com/SoCXin/Vendor) ：[chipsea](http://www.chipsea.com)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
+#### [Level](https://github.com/SoCXin/Level) ：48 MHz * 0.95 DMIPS/MHz
 
-## [CH567描述](https://github.com/sochub/CH567/wiki) 
+## [简介](https://github.com/SoCXin/CS32G020/wiki)
 
-[CH567](https://github.com/sochub/CH567) 是一款高性能32位精简指令集微控制器，系统主频可达120MHZ。片上集成两组独立的高速USB2.0主/从控制器、4组SDIO控制器、加解密算法模块、4组串口、7路PWM、3组定时器等丰富的外设资源，LQFP48封装可广泛应用于各种嵌入式设备。
+[CS32G020](https://github.com/SoCXin/CS32G020)系列是芯海科技推出的支持USB Type-C和PD3.0协议的USB-C控制器，可应用于PC电源适配器、手机充电器、移动电源、车充、HUB等领域。CS32G020内嵌ARM® Cortex™-M0内核，主频最高48MHz，因而可以支持很广范围的工业控制和需要高性能CPU的场合。内置64K字节程序flash，数据flash大小可配置(与程序flash共享) ,4K字节LDROM，8K字节SRAM。CS32G020封装包括QFN24和QFN32。
 
-[![sites](docs/CH567.png)](http://www.wch.cn/products/CH567.html) 
+* 60K Flash 内存用来存放应用程序 (APROM)
+* 可配置的数据 flash(Data Flash)
+* 4KB启动代码空间 (LDROM)
+* 内嵌8KB SRAM
 
-封装：LQFP48
+[![sites](docs/CS32G020.png)](http://www.chipsea.com/8-bit-pd-mcu/CS32G020.html)
 
-### [资源收录](https://github.com/sochub/CH567)
+#### 关键特性
 
-- [文档](docs/)
-- [资源](src/)
+* USB PD3.0
+* 支持QC4.0+、SCP、FCP、AFC协议
+* CC口支持21V耐压
+* 12位模数转换器(ADC)
+* 11位数模转换器(DAC)
 
-### [选型建议](https://github.com/sochub)
+### [资源收录](https://github.com/SoCXin/CS32G020)
 
-[CH567](https://github.com/sochub/CH567)定位小众的HUB类产品，拥有4组SDIO接口，可用于相关领域，升级替换方案[CH568](https://github.com/sochub/CH5678) 
+* [参考文档](docs/)
+* [参考资源](src/)
+* [参考工程](project/)
 
+### [选型建议](https://github.com/SoCXin)
 
-###  [SoC开发平台](http://www.qitas.cn)   
+[CS32G020](https://github.com/SoCXin/CS32G020)
+
+###  [www.SoC.xin(芯)](http://www.SoC.Xin)
