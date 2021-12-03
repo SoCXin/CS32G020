@@ -1,3 +1,89 @@
-*.pyc
 .pio/
 .vscode/
+__pycache__/
+.settings
+.travis.yml
+settings
+Debug
+tests
+*.py[cod]
+*$py.class
+*__pyc*/
+*.DS_Store
+*.autosave
+*~
+*#
+CHANGE*
+README*
+COPY*
+*CONTRIBU*
+LICENSE*
+HACKING*
+Doxyfile
+*.swp
+*.lck
+*.log
+*.ewt
+*.ewd
+*.crf
+*.dep
+*.map
+*.hex
+*.bin
+*bak
+*.txt
+*.lst
+*.sct
+*.elf
+*.ini
+*.gbr
+*.drl
+*.ods
+*.odg
+*.csv
+*.xml
+# *.pdf
+*.xlsx
+*.zip
+*.xcf
+# *.png
+# *.jpg
+*.rst
+*.srec
+# *_sc*
+*cm23*
+*cm33*
+*cm7*
+*cm4*
+*cm3*
+*cm1*
+# *cm0*
+*.uvgu*
+*dox
+# docs
+# mk
+# *.md
+*.so
+*.dcm
+# *32g*
+*32h*
+*32f7*
+*32f4*
+*32f3*
+*32f2*
+*32f1*
+*32f0*
+*32l*
+Drivers
+RTE
+DebugConfig
+*.d
+*.o
+*.iex
+*.axf
+*.lnp
+*.htm
+*.hex
+*.scvd
+JLinkLog.txt
+JLinkSettings.ini
